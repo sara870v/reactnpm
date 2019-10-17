@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b33d8087.chunk.css",
-    "main.js": "/static/js/main.cb9cfefc.chunk.js",
-    "main.js.map": "/static/js/main.cb9cfefc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2c84df58.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2c84df58.js.map",
-    "static/css/2.5158c8ec.chunk.css": "/static/css/2.5158c8ec.chunk.css",
-    "static/js/2.8e4df1a7.chunk.js": "/static/js/2.8e4df1a7.chunk.js",
-    "static/js/2.8e4df1a7.chunk.js.map": "/static/js/2.8e4df1a7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8ba8fd2d56a79e12322070606cda7793.js": "/precache-manifest.8ba8fd2d56a79e12322070606cda7793.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.5158c8ec.chunk.css.map": "/static/css/2.5158c8ec.chunk.css.map",
-    "static/css/main.b33d8087.chunk.css.map": "/static/css/main.b33d8087.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/reactnpm/static/css/main.b33d8087.chunk.css",
+    "main.js": "/reactnpm/static/js/main.77b58f38.chunk.js",
+    "main.js.map": "/reactnpm/static/js/main.77b58f38.chunk.js.map",
+    "runtime-main.js": "/reactnpm/static/js/runtime-main.7089de9d.js",
+    "runtime-main.js.map": "/reactnpm/static/js/runtime-main.7089de9d.js.map",
+    "static/css/2.5158c8ec.chunk.css": "/reactnpm/static/css/2.5158c8ec.chunk.css",
+    "static/js/2.8e4df1a7.chunk.js": "/reactnpm/static/js/2.8e4df1a7.chunk.js",
+    "static/js/2.8e4df1a7.chunk.js.map": "/reactnpm/static/js/2.8e4df1a7.chunk.js.map",
+    "index.html": "/reactnpm/index.html",
+    "precache-manifest.85faa3c937d4cb5de06eab5a31ad6378.js": "/reactnpm/precache-manifest.85faa3c937d4cb5de06eab5a31ad6378.js",
+    "service-worker.js": "/reactnpm/service-worker.js",
+    "static/css/2.5158c8ec.chunk.css.map": "/reactnpm/static/css/2.5158c8ec.chunk.css.map",
+    "static/css/main.b33d8087.chunk.css.map": "/reactnpm/static/css/main.b33d8087.chunk.css.map",
+    "static/media/logo.svg": "/reactnpm/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c84df58.js",
+    "static/js/runtime-main.7089de9d.js",
     "static/css/2.5158c8ec.chunk.css",
     "static/js/2.8e4df1a7.chunk.js",
     "static/css/main.b33d8087.chunk.css",
-    "static/js/main.cb9cfefc.chunk.js"
+    "static/js/main.77b58f38.chunk.js"
   ]
 }
